@@ -1,0 +1,30 @@
+.navbar {
+    width: 100%;
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.NavAll {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navList {
+    display: flex;
+}
+
+.navTitle {
+    padding: 10px 20px;
+    font-size: 1vw;
+    transition: 0.3s;
+}
+
+.NavlistDiv {
+    display: flex;
+    align-items: center;
+}
+
+.navTitle:hover {
+    color: #5454D4;
+    text-decoration: underline;
+}
