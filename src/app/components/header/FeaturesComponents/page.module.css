@@ -1,0 +1,24 @@
+.FeaturesComponents {
+    width: 1140px;
+}
+.blueFon {
+    background: #5454D4;
+
+}
+.images {
+    display: flex;
+    justify-content: right;
+
+}
+.SecondContentleft {
+    margin: 0 10vh;
+    display: flex;
+}
+.card {
+    max-width: 255px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2vh;
+    padding: 3vh 2vh 2vh 3vh;
+}
+/* SecondContentFather */
